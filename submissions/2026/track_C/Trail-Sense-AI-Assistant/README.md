@@ -75,20 +75,7 @@ app/build/outputs/apk/debug/app-debug.apk
 5. 输入“天气读数怎么看？”展示 AI 读取 Trail Sense 天气/气压上下文并解释。
 6. 强调模型端侧运行、位置和聊天数据不上传云端。
 
-Demo 视频链接：待补充
+Demo 视频链接：https://www.youtube.com/watch?v=EkK9DF7OfXg
 
 在线 Demo / APK 下载链接：待补充
 
-## 提交说明
-
-推荐官方提交路径：
-
-```text
-submissions/2026/C/Trail-Sense-AI-Assistant/
-```
-
-PR 标题格式：
-
-```text
-[赛道C] Trail Sense AI Assistant - 队伍名
-```
